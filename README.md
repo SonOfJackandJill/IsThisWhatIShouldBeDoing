@@ -1,0 +1,2 @@
+# IsThisWhatIShouldBeDoing
+WeHaveToStartSomewhere
